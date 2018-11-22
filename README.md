@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Passo a passo para configurar projeto laravel</h1>
 
 
@@ -82,3 +83,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# projetolaravel
+>>>>>>> ced6a2f60cfdc48609dcadae241ca3d9c420b44f
